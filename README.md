@@ -76,6 +76,7 @@ Table 1: Results of FakeIDet-db in the FakeIDet-db database.
 Furthermore, results using attacks from out-of-distribution data from the DLC-2021 database are also included in Table 2.
 
 ![image info](./assets/DLC_results.png)
+
 Table 2: Results of FakeIDet-db in the DLC-2021 database.
 
 # REFERENCES
