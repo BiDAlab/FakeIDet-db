@@ -4,7 +4,7 @@
 J. Muñoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales and J. Fierrez, “[FakeIDet: Exploring Patches for Privacy-Preserving Fake ID Detection](https://arxiv.org/abs/2504.07761)”, In Proc. IJCB 2025. 
 
 ## DOWNLOAD INSTRUCTIONS for FakeIDet-db
-1. Download the corresponding license agreement from this reporsitory:
+1. Download the corresponding license agreement from this repository:
     
     These agreement can only be signed by permanent researchers working at research or academic institutions, and selected companies generating research outcomes.
     
