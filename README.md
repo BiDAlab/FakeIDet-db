@@ -16,7 +16,7 @@ J. Muñoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales and J. Fierrez, “[F
 
     Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
 
-3. Once the email copy of the license agreement has been received at ATVS, you will receive an email with a username, a password, and a time slot to download the database.
+3. Once the email copy of the license agreement has been received at BiDA-Lab, you will receive an email with a username, a password, and a time slot to download the database.
 
 4. [Download](https://bidalab.eps.uam.es/listdatabases) the database, for which you will need to provide the authentication information given in step 4. After you finish the download, please notify by email to atvs@uam.es that you have successfully completed the transaction.
 
